@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="gb2312"?>
+<MaterialColorCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Window_1">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>4</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>1</r>
+        <g>0.9524529</g>
+        <b>0.759029</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.743674338</r>
+        <g>0.7673607</g>
+        <b>0.772058845</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value>VertExmotion/Toon/ToonAnimatedEmissive</property_4_Value>
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Roof_1">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>2.51</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>0.8235294</r>
+        <g>0.8730223</g>
+        <b>0.9411765</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.852941155</r>
+        <g>0.852941155</g>
+        <b>0.852941155</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value>VertExmotion/Toon/ToonAnimatedEmissive</property_4_Value>
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Wall_1">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>4</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>0.345098048</r>
+        <g>0.5254902</g>
+        <b>0.6784314</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.6313726</r>
+        <g>0.5686275</g>
+        <b>0.4039216</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value>VertExmotion/Toon/ToonAnimatedEmissive</property_4_Value>
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Window_2">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>4</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>1</r>
+        <g>0.952941239</g>
+        <b>0.7607844</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.745098054</r>
+        <g>0.7686275</g>
+        <b>0.7725491</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value>VertExmotion/Toon/ToonAnimatedEmissive</property_4_Value>
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Roof_2">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>0</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>1</r>
+        <g>0.9960785</g>
+        <b>0.635294139</b>
+        <a>0</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>1</r>
+        <g>0.623529434</g>
+        <b>0.623529434</b>
+        <a>0</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value>Shader Forge/Fogplane</property_4_Value>
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Wall_2">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>0</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>0.372549027</r>
+        <g>0.68235296</g>
+        <b>0.360784322</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.8980393</r>
+        <g>0.815686345</g>
+        <b>0.6</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value />
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Window_3">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>0</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>1</r>
+        <g>0.952941239</g>
+        <b>0.7607844</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>0.745098054</r>
+        <g>0.7686275</g>
+        <b>0.7725491</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value />
+    </MaterialColor>
+    <MaterialColor Material_x0020_Name="Town_House_Roof_3">
+      <property_1_Name>_NormalIntensity</property_1_Name>
+      <property_1_Value>0</property_1_Value>
+      <property_2_Name>_Diffuse</property_2_Name>
+      <property_2_Value>
+        <r>1</r>
+        <g>0.9960785</g>
+        <b>0.635294139</b>
+        <a>1</a>
+      </property_2_Value>
+      <property_3_Name>_RimColor</property_3_Name>
+      <property_3_Value>
+        <r>1</r>
+        <g>0.623529434</g>
+        <b>0.623529434</b>
+        <a>1</a>
+      </property_3_Value>
+      <property_4_Name>_ShaderName</property_4_Name>
+      <property_4_Value />
+    </MaterialColor>
+  </MaterialColor>
+</MaterialColorCollection>

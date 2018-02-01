@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312"?>
+<PrefabInterchangable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrefabInfo>
+    <PrefabInfo Prefab_x0020_Name="Town_House_1_LOD_1_LightPlane.prefab">
+      <assetPath>Assets/Prefab/Town_House_1_LOD_1_LightPlane.prefab</assetPath>
+    </PrefabInfo>
+    <PrefabInfo Prefab_x0020_Name="Town_House_1_LOD_1.prefab">
+      <assetPath>Assets/Prefab/Town_House_1_LOD_1.prefab</assetPath>
+    </PrefabInfo>
+    <PrefabInfo Prefab_x0020_Name="Town_House_2_LOD_0.prefab">
+      <assetPath>Assets/Prefab/Town_House_2_LOD_0.prefab</assetPath>
+    </PrefabInfo>
+    <PrefabInfo Prefab_x0020_Name="Town_House_3_LOD_0.prefab">
+      <assetPath>Assets/Prefab/Town_House_3_LOD_0.prefab</assetPath>
+    </PrefabInfo>
+  </PrefabInfo>
+</PrefabInterchangable>
